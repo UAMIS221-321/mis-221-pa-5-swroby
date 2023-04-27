@@ -1,0 +1,15 @@
+C:\Users\willa\source\mis221\mis-221-pa-5-swroby\bin\Debug\net7.0\mis-221-pa-5-swroby.exe
+C:\Users\willa\source\mis221\mis-221-pa-5-swroby\bin\Debug\net7.0\mis-221-pa-5-swroby.deps.json
+C:\Users\willa\source\mis221\mis-221-pa-5-swroby\bin\Debug\net7.0\mis-221-pa-5-swroby.runtimeconfig.json
+C:\Users\willa\source\mis221\mis-221-pa-5-swroby\bin\Debug\net7.0\mis-221-pa-5-swroby.dll
+C:\Users\willa\source\mis221\mis-221-pa-5-swroby\bin\Debug\net7.0\mis-221-pa-5-swroby.pdb
+C:\Users\willa\source\mis221\mis-221-pa-5-swroby\obj\Debug\net7.0\mis-221-pa-5-swroby.csproj.AssemblyReference.cache
+C:\Users\willa\source\mis221\mis-221-pa-5-swroby\obj\Debug\net7.0\mis-221-pa-5-swroby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willa\source\mis221\mis-221-pa-5-swroby\obj\Debug\net7.0\mis-221-pa-5-swroby.AssemblyInfoInputs.cache
+C:\Users\willa\source\mis221\mis-221-pa-5-swroby\obj\Debug\net7.0\mis-221-pa-5-swroby.AssemblyInfo.cs
+C:\Users\willa\source\mis221\mis-221-pa-5-swroby\obj\Debug\net7.0\mis-221-pa-5-swroby.csproj.CoreCompileInputs.cache
+C:\Users\willa\source\mis221\mis-221-pa-5-swroby\obj\Debug\net7.0\mis-221-pa-5-swroby.dll
+C:\Users\willa\source\mis221\mis-221-pa-5-swroby\obj\Debug\net7.0\refint\mis-221-pa-5-swroby.dll
+C:\Users\willa\source\mis221\mis-221-pa-5-swroby\obj\Debug\net7.0\mis-221-pa-5-swroby.pdb
+C:\Users\willa\source\mis221\mis-221-pa-5-swroby\obj\Debug\net7.0\mis-221-pa-5-swroby.genruntimeconfig.cache
+C:\Users\willa\source\mis221\mis-221-pa-5-swroby\obj\Debug\net7.0\ref\mis-221-pa-5-swroby.dll

@@ -1,0 +1,8 @@
+1#Willa Roby#111 Winners Way#swroby@crimson.ua.edu#False
+2#Lily Windham#334 Tide Trace#lcwindham@crimson.ua.edu#False
+3#Caroline Herron#205 Styles Street#ceherron@crimson.ua.edu#False
+4#Audrey Kilgore#222 Liars Lane#askilgore@crimson.ua.edu#False
+5#Emma Saunders#256 Omega Loop#eksaunders@crimson.ua.edu#False
+6#Kendall Coley#567 Diva Drive#klcoley@crimson.ua.edu#False
+7#Chloe Coggin#123 Cartwheel Court#cdcoggin@crimson.ua.edu#False
+8#Brianna Singleton#777 Loaded Tea Circle#bmsingleton@crimson.ua.edu#False

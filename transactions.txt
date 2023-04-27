@@ -1,0 +1,8 @@
+1001#001#Willa Roby#05/01/2023#Alice Ann#asann@crimson.ua.edu#booked#false
+1002#002#Lily Windham#05/02/2023#Betsy Bennett#btbennett@crimson.ua.edu#booked#false
+1003#003#Caroline Herron#05/03/2023#Charlie Chase#ckchase@crimson.ua.edu#booked#false
+1004#004#Audrey Kilgore#06/01/2023#Dennis Daniel#dldaniel@crimson.ua.edu#booked#false
+1005#005#Emma Saunders#06/02/2023#Evelyn Ellis#evellis@crimson.ua.edu#booked#false
+1006#006#Kendall Coley#06/03/2023#Franklin Fox#fafox@crimson.ua.edu#booked#false
+1007#007#Chloe Coggin#07/01/2023#Garrett Graham#glgraham@crimson.ua.edu#booked#false
+1008#008#Brianna Singleton#07/02/2023#Hannah Hensley#hohensley@crimson.ua.edu#available#false

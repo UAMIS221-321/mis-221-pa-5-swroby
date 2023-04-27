@@ -1,0 +1,8 @@
+1001#Ballet#Willa Roby#05/01/2023#9:00am#65#closed#False
+1002#Jazz#Lily Windham#05/02/2023#10:00am#50#open#False
+1003#Hip Hop#Caroline Herron#05/03/2023#10:00am#45#open#False
+1004#Contemporary#Audrey Kilgore#06/01/2023#11:00am#70#closed#False
+1005#Tap#Emma Saunders#06/02/2023#11:00am#90#closed#False
+1006#Fusion#Kendall Coley#06/03/2023#12:00pm#35#open#False
+1007#African#Chloe Coggin#07/01/2023#12:00pm#45#open#False
+1008#Modern#Brianna Singleton#07/02/2023#1:00pm#50#closed#False

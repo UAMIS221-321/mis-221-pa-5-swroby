@@ -141,20 +141,6 @@ namespace mis_221_pa_5_swroby
             
     public void HistoricalRevenueReport() {
         System.Console.WriteLine("Only report I could not figure out! Sorry to disappoint!!!");
-        // int currMonth = sessions[0].GetSessionDate().Month;
-        // int currYear = sessions[0].GetSessionDate().Year;
-        // int searchVal = sessions[0].GetSessionID();
-        // int countMonth = 1;
-        // int countYear = 1;
-
-        // double monthRevenue = listing[0].GetCost();
-        // double yearRevenue = listing[0].GetCost();
-
-        // Listing listingCheck = listFile.ListingFind(searchVal); //We want to pass in the searchVal into the utility to find a specific listing and create a new listing from our Listing[] that will eventually give us all of the information for that listing
-
-        // for(int i = 1; i < Sessions.GetCount(); i++) {
-        //     if(sessions[i].GetStatus() != "Cancelled") {
-        //         searchVal = sessions[i].GetSessionID();
         //         listingCheck = listFile.ListingFind(searchVal);
 
 
@@ -189,7 +175,7 @@ namespace mis_221_pa_5_swroby
         //     outFile.WriteLine(ProcessBreakMonth);
         //     outFile.WriteLine(ProcessBreakYear);
         // }
-    }
+            }
 
     public string ProcessBreakMonth(ref int currMonth, ref double monthRevenue, int i, ref int countMonth){
         System.Console.WriteLine($"{currMonth}'s revenue was {monthRevenue}");
